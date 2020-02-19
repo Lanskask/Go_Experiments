@@ -1,0 +1,6 @@
+#FileLock
+#Tue Feb 18 19:56:02 MSK 2020
+hostName=192.168.88.39
+id=170593a5d456ee94014ccbec2ed008981f507c7d5d7
+method=file
+server=192.168.88.39\:60350
